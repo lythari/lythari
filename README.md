@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lythari 
+- 👀 I’m interested in Python, maths and cryptocurrencies
+- 📫 Don't hesitate to [PM me](davidgiraud@pm.me) if you need 
